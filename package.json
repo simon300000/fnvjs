@@ -2,6 +2,7 @@
   "name": "fnvjs",
   "version": "1.0.1",
   "description": "A FNV hashing library for JavaScript.",
+  "type": "module",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
   "module": "dist/esm/index.js",
